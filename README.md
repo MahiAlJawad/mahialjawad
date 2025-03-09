@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahi Al Jawad</h1>
-<h3 align="center">A passionate iOS App Developer working in Samsung R&D Institute Bangladesh as a Lead Software Engineer(iOS). This github profile contains some of my personal contributions out of my job role. I do these in my free time just for practice, self-learning and keeping myself up to date with the latest technologies. My major contributions are private and with the company I work for (Samsung).</h3>
+<p align="left">A passionate iOS App Developer working in Samsung R&D Institute Bangladesh as a Lead Software Engineer(iOS). This github profile contains some of my personal contributions out of my job role. I do these in my free time just for practice, self-learning and keeping myself up to date with the latest technologies. <b>My major contributions are private (Company owned Github profile) and with the company I work for (Samsung)</b>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahialjawad&label=Profile%20views&color=0e75b6&style=flat" alt="mahialjawad" /> </p>
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahi-al-jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahi-al-jawad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mahi-al-jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahi-al-jawad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18823687/mahi-al-jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahi-al-jawad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
